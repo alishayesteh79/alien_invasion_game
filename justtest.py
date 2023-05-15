@@ -1,7 +1,7 @@
-l = [ 0,1,2,3]
+screen_width = 1200
+screen = 800
 
-for i in l.copy() :
-    print(i)
-    l.remove(i)
-    print(l)
-print(l)
+a = (screen_width -
+        screen)
+
+print(a)
